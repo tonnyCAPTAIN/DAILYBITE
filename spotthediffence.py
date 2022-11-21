@@ -1,13 +1,16 @@
 #!/usr/bin/python3
 
 def spotdiff():
+    d = ""
     t = "foobar"
-    s = "barfoot"
+    s = "barfoozxt"
     if len(s) > len(t):
         for i in s: 
             if i not in t:
-                return i
+                d += i
+        return d
     else:
         for i in t:
             if i not in s:
-                return i
+                d += i
+        return d
