@@ -14,3 +14,4 @@ def spotdiff():
             if i not in s:
                 d += i
         return d
+print(spotdiff)
