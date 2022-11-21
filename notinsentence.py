@@ -7,7 +7,7 @@
 #sentence1 = "copper coffee pot", sentence2 = "hot coffee pot", 
 #return ["copper", "hot"]
 
-sentence1 = "the tottoise beat the haire"
+sentence1 = "the tortoise beat the haire"
 sentence2 = "the tortoise lost to the haire"
 
 def notInSentence(sentence1, sentence2):
