@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 def spotdiff():
     t = "foobar"
     s = "barfoot"
