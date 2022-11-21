@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 #sentence1 = "the quick", sentence2 = "brown fox", 
 #return ["the", "quick", "brown", "fox"]
 #sentence1 = "the tortoise beat the haire", sentence2 = "the tortoise lost to the haire", 
