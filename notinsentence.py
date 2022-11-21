@@ -21,6 +21,6 @@ def notInSentence(sentence1, sentence2):
 	for i in S1:
 		if i not in S2:
 			newlist.append(i)
-			return newlist
+	return newlist
 
 print(notInSentence(sentence1, sentence2))
